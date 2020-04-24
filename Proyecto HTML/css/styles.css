@@ -62,7 +62,7 @@ body {
   padding-top: 10px;
   padding-bottom: 3rem;
   margin: 0 auto;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/prevenapp 2.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10052,13 +10052,13 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f3cb04;
+    color: #f4cc04;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f3cb04;
+    color: #f4cc04;
   }
 }
 
@@ -10071,7 +10071,7 @@ hr.light {
     padding-top: 8rem;
     padding-bottom: 8rem;
     /*background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/inicio.png");*/
-    background-image: url('../img/portada home.png');
+    background-image: url('../img/prevenapp 1.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10138,8 +10138,8 @@ hr.light {
 /*footer responsivo*/
 footer{
 	width: 100%;
-	background: #642464;
-	color: white;
+	background: #f4cc04;
+	color: black;
   padding: 160px;
   padding-top: 40px;
   padding-bottom: 40px;
