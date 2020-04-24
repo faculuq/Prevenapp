@@ -10020,7 +10020,7 @@ hr.light {
   color: #6f42c1;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: rgb(223, 226, 21) !important;
+  color: #f4cc04 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
