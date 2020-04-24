@@ -17,6 +17,14 @@ body{
 
 #Beneficios{
 	color: white;
+	padding: 15rem 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2{
+	text-align: center;
 }
 
 ul{
